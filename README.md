@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hello world 👋 
 
 I'm Beatriz but you can call me Bea. Welcome to the place where I showcase my projects and break things! 😂
 
