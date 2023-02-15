@@ -6,7 +6,7 @@ I'm Beatriz but you can call me Bea. Welcome to the place where I showcase my pr
 
 - 🌱 I’m currently learning Web Development
 - 😄 Pronouns: she/her
-- 🥅 2023 Goal: get a job as a Front-End Developer
+- 🎯 2023 Goal: get a job as a Front-End Developer
 - ⚡ Fun fact: I love to read, I wouldn't survive without my kindle 
 - 📧 How to reach me: contact@beaferreira.ca
 <br />
